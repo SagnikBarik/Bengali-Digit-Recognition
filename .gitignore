@@ -1,0 +1,4 @@
+Dataset/
+TFLiteModels/
+.venv/
+.DS_Store
