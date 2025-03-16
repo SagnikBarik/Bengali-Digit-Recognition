@@ -24,4 +24,4 @@ Preprocessing steps:
 
 ## **Flutter App Integration**  
 The trained model is integrated into a **Flutter-based mobile application** that allows users to draw Bengali digits on a whiteboard and get real-time predictions.  
-Check out the Flutter implementation: [**Sonkhya.AI**](https://github.com/SagnikBarik/Sonkhya.AI)  
+Check out the Flutter implementation: [**Sonkhya.AI**](https://github.com/SagnikBarik/sonkhya_ai)  
